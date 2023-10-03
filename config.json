@@ -1,0 +1,17 @@
+{
+    "twwt" : {
+        "query" : "industrial manufacturers and suppliers",
+        "stop" : 50
+    },
+    "seeds" : [
+        "https://www.linquip.com/suppliers-companies",
+        "https://www.turkishexporter.net/en/home",
+        "https://www.ind-supply.com/",
+        "https://www.thomasnet.com/browsecompanies.html"
+    ],
+    "coefficients" : {
+        "meta" : 2,
+        "text" : 1
+    },
+    "focused_mode" : true
+}
